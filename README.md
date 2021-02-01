@@ -3,7 +3,7 @@ Nikita Palcevskis
 
 Dzimšanas datums: 18/03/2005 
 Pilsonība: Latvijas 
-Dzimums Vīrietis
+Dzimums: Vīrietis
 
 Kontakti:
 
