@@ -1,8 +1,6 @@
 # Mans_cv
 Nikita Palcevskis
 
-<img src="https://sun9-3.userapi.com/impg/meQvhwfsCRQ2PbFvS6wlZZMZ2DDtCQskjGfENA/3_wDYXsZFCo.jpg?size=1617x2160&quality=96&proxy=1&sign=9862ff89587cb83cc7d0fd0c2738d916&type=album" width="10%" height="10%">
-
 Dzimšanas datums: 18/03/2005 
 Pilsonība: Latvijas 
 Dzimums: Vīrietis
